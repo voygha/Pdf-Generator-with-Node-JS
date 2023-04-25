@@ -18,7 +18,7 @@ var contenido = `
 <h1>Esto es un test de html-pdf</h1>
 <p>Estoy generando PDF a partir de este código HTML sencillo</p>
 <div id="pageFooter" style="border-top: 1px solid #ddd; padding-top: 5px;">
-  <p style="color: #666; width: 70%; margin: 0; padding-bottom: 5px; text-align: let; font-family: sans-serif; font-size: .65em; float: left;">http://desarrolloweb.com/manuales/publicar-webs-internet.html</p>
+  <p style="color: #666; width: 70%; margin: 0; padding-bottom: 5px; text-align: let; font-family: sans-serif; font-size: .65em; float: left;">Hola soy un pie de pagina</p>
   <p style="color: #666; margin: 0; padding-bottom: 5px; text-align: right; font-family: sans-serif; font-size: .65em">Página {{page}} de {{pages}}</p>
 </div>
 `;
